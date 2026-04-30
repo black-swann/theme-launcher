@@ -27,7 +27,7 @@ sudo apt install bash curl fzf jq tar python3 python3-gi gir1.2-gtk-4.0 gir1.2-g
 Download the repo and put the launcher on your `PATH`:
 
 ```bash
-git clone https://github.com/bdbetner/theme-launcher.git
+git clone https://github.com/betnerb/theme-launcher.git
 cd theme-launcher
 mkdir -p ~/.local/bin
 ln -sfn "$PWD/bin/theme-launcher" ~/.local/bin/theme-launcher
